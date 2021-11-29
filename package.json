@@ -5,5 +5,15 @@
   "main": "index.js",
   "repository": "git@github.com:mhoumann87/refactor_rasmus_website.git",
   "author": "Michael Houmann <mhoumann87@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "postcss-cli": "^9.0.2",
+    "postcss-import": "^14.0.2",
+    "postcss-preset-env": "^7.0.1"
+  },
+  "scripts": {
+    "start": "postcss src/main.css --dir public/assets/css --watch"
+  }
 }
