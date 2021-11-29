@@ -1,7 +1,7 @@
 public/assets/audio/
 public/assets/images/
 public/assets/video/
-src/
+public/assets/css/
 # Logs
 logs
 *.log
