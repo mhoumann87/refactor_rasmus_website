@@ -1,0 +1,9 @@
+{
+  "name": "new_css",
+  "version": "1.0.0",
+  "description": "Refactoring the CSS of Rasmus' website",
+  "main": "index.js",
+  "repository": "git@github.com:mhoumann87/refactor_rasmus_website.git",
+  "author": "Michael Houmann <mhoumann87@gmail.com>",
+  "license": "MIT"
+}
